@@ -1,3 +1,5 @@
+import unittest
+
 def sort_list_imperative(numbers):
     """
     Сортировка списка чисел в порядке убывания, используя императивный подход.
@@ -34,6 +36,19 @@ def sort_list_declarative(numbers):
     """
     # Декларативный код с использованием встроенной функции сортировки Python
     return sorted(numbers, reverse=True)
+
+
+# # Класс юнит-теста
+# class TestSortingMethods(unittest.TestCase):
+#     def test_sort_list_imperative(self):
+#         self.assertEqual(sort_list_imperative([12, 4, 5, 6, 7]), [12, 7, 6, 5, 4])
+#         self.assertEqual(sort_list_imperative([1, 2, 3, 4, 5]), [5, 4, 3, 2, 1])
+#         self.assertEqual(sort_list_imperative([]), [])
+#
+#     def test_sort_list_declarative(self):
+#         self.assertEqual(sort_list_declarative([12, 4, 5, 6, 7]), [12, 7, 6, 5, 4])
+#         self.assertEqual(sort_list_declarative([1, 2, 3, 4, 5]), [5, 4, 3, 2, 1])
+#         self.assertEqual(sort_list_declarative([]), [])
 
 
 if __name__ == "__main__":
