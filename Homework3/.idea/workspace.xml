@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="458e1bfc-7fe4-4d74-a845-c49c7145200d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Homework3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lection3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lection3/.idea/Lection3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lection3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lection3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lection3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lection3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lection3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/.idea/Seminar3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Seminar3/Task6.py" afterDir="false" />
-    </list>
+    <list default="true" id="458e1bfc-7fe4-4d74-a845-c49c7145200d" name="Changes" comment="Lesson 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +86,19 @@
       <option name="presentableId" value="Default" />
       <updated>1701536774690</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson 3">
+      <option name="closed" value="true" />
+      <created>1701537704968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701537704968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3" />
   </component>
 </project>
